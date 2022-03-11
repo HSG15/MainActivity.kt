@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955969430261",
+    "project_id": "set-data-to-firebase",
+    "storage_bucket": "set-data-to-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955969430261:android:5365eedfe1dfb1c3a21bbc",
+        "android_client_info": {
+          "package_name": "com.hsg.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955969430261-60ms6jmc7vvfpi2unilmhm4n5sd1u4c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKtvJNAHcx1DkqTQi1B3qZ6MpxYOjj_YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955969430261-60ms6jmc7vvfpi2unilmhm4n5sd1u4c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
